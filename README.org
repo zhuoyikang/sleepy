@@ -1,0 +1,2 @@
+not only nif can block the scheduler, but also link in port driver .
+because both of them run in the schedule thread.
